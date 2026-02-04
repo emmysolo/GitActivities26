@@ -1,0 +1,3 @@
+Your Favorite Quote: "K.I.S.S, Keep It Simple Stupid."
+Who said it? Dwight Schrute from The Office when he was telling Ryan about the best advice.
+What is your preferred tech stack (Java/Microsoft/MySql/Sql/Postgres/Vue/Angular/React/HTML/PHP) My preferred tech stack is Java or HTML. 
