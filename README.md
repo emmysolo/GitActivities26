@@ -1,5 +1,9 @@
+RESOLVED
 # Merge Conflict Line: A
 
+
+
+# Merge Conflict Line B
 
 
 # Git Activities
